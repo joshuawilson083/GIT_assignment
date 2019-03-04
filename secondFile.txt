@@ -1,8 +1,5 @@
 This is the initial contents
 of the second file that comprises
 our most excellent project.
-<<<<<<< HEAD
 What does mine say? Dude. UserB
-
 What does mine say? Sweet. UserA
->>>>>>> 10008e8fda726dadebf060c47312577ae176c82a
